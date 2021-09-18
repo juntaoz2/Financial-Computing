@@ -2,7 +2,7 @@
 //  main.cpp
 //  Homework1
 //
-//  Created by 张君陶 on 2021/9/11.
+//  Created by on 2021/9/11.
 //
 
 //#include "BinomialTreeModel.h"
