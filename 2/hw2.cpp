@@ -2,7 +2,7 @@
 //  hw2.cpp
 //  Homework2
 //
-//  Created by 张君陶 on 2021/9/18.
+//  Created by Zhang Juntao on 2021/9/18.
 //
 #include "hw2.hpp"
 #include <stdio.h>
