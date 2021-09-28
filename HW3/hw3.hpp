@@ -2,7 +2,7 @@
 //  hw3.hpp
 //  Homework3
 //
-//  Created by 张君陶 on 2021/9/26.
+//  Created by on 2021/9/26.
 //
 
 #ifndef hw3_hpp
