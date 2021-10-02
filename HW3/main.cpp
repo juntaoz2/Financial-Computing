@@ -18,9 +18,7 @@ int main() {
     GetInputData(N);
     
     cout<<"Integral By Trapezoidal approximation: " << MyInt.ByTrapzoid(N)<<endl;
-    //delete [] MyInt.ByTrapzoid(N);
     cout<<"Integral By Simpson: " << MyInt.BySimpson()<<endl;
-    //delete [] MyInt.BySimpson();
     return 0;
 }
 
