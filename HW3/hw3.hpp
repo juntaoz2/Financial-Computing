@@ -29,7 +29,7 @@ public:
     Deflnt();
     Deflnt(double aa, double bb, double (*function)(double x));
     Deflnt(const Deflnt& d);
-    ~Deflnt();
+    ~Deflnt(); //here i do not define the destructor in the C++ file because i dont have dynamic allocated memory or pointer in class. When a class contains a pointer to memory allocated in class, we should write a destructor to release memory before the class instance is destroyed. This must be done to avoid memory leak.
     double ByTrapzoid(int N);
     double BySimpson();
 };
