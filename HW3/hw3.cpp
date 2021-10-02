@@ -30,13 +30,6 @@ Deflnt::Deflnt(const Deflnt& d ) {
     f = d.f;
 }
 
-Deflnt::~Deflnt() {
-    if (a!=0) {
-        a=0; }
-    if (b!=0) {
-        b=0; }
-}
-
 double Deflnt::ByTrapzoid(int N) {
     double h = (b-a)/N;
     double summation = f(a);
