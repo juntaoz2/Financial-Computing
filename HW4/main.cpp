@@ -2,7 +2,7 @@
 //  main.cpp
 //  Homework4
 //
-//  Created by 张君陶 on 2021/10/4.
+//  Created by  on 2021/10/4.
 //
 
 #include <iostream>
