@@ -2,7 +2,7 @@
 //  BinomialTreeModel02.hpp
 //  Homework4
 //
-//  Created by 张君陶 on 2021/10/5.
+//  Created by on 2021/10/5.
 //
 
 #ifndef BinomialTreeModel02_hpp
