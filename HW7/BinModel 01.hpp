@@ -2,7 +2,7 @@
 //  BinModel 01.hpp
 //  HW7
 //
-//  Created by 张君陶 on 2021/10/20.
+
 //
 #pragma once
 #include<iostream>
