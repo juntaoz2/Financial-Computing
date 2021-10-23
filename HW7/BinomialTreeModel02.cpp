@@ -2,7 +2,6 @@
 //  BinomialTreeModel02.cpp
 //  Homework6
 //
-//  Created by 张君陶 on 2021/10/15.
 //
 
 #include "BinomialTreeModel02.hpp"
