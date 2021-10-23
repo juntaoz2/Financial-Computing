@@ -2,7 +2,6 @@
 //  BSModel.hpp
 //  HW7
 //
-//  Created by 张君陶 on 2021/10/20.
 //
 #ifndef BSModel_h
 
