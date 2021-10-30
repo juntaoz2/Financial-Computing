@@ -2,7 +2,7 @@
 //  Bond.hpp
 //  Homework8
 //
-//  Created by 张君陶 on 2021/10/27.
+//  Created by  on 2021/10/27.
 //
 #pragma once
 #ifndef Bond_hpp
