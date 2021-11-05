@@ -1,10 +1,10 @@
 //
 //  Bond.hpp
-//  Homework8
+//  Non-linear Solver3
 //
-//  Created by  on 2021/10/27.
+//  Created by 张君陶 on 2021/11/5.
 //
-#pragma once
+
 #ifndef Bond_hpp
 #define Bond_hpp
 
@@ -12,8 +12,22 @@
 
 #endif /* Bond_hpp */
 
-#include "NonlinearSolver02.hpp"
-#include "Function02.hpp"
+#ifndef Bond_hpp
+#define Bond_hpp
+
+#include <stdio.h>
+
+#endif /* Bond_hpp */
+
+#pragma once
+#include "NonlinearSolver3.hpp"
+
+class Function{
+public:
+    virtual double Value(double x) = 0;
+    virtual double Deriv(double x) = 0;
+    virtual ~Function() {}
+};
 //---------------------------------
 class Bond{
 public:

@@ -1,13 +1,14 @@
 //
 //  Bond.cpp
-//  Homework8
+//  Non-linear Solver3
 //
-//  Created by 张君陶 on 2021/10/27.
+//  Created by 张君陶 on 2021/11/5.
 //
-#pragma once
+
+#include <iostream>
+#include <iomanip>
+#include "NonlinearSolver3.hpp"
 #include "Bond.hpp"
-#include "NonlinearSolver02.hpp"
-#include "Function02.hpp"
 #include <cmath>
 
 
@@ -35,6 +36,3 @@ double Intermediary::Value(double y){
 
 double Intermediary::Deriv(double y){
     return DeriveBond(T,C,F,y);}
-
-
-
