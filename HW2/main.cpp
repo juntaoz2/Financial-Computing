@@ -39,7 +39,7 @@ int main() {
 //European Put option price = 11.43
 //Program ended with exit code: 0
 
-
+//-------calculate European call/put and Binary call/put options using pointer function-------
 
 
 
