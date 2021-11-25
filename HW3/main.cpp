@@ -27,3 +27,5 @@ int main() {
 //Integral By Trapezoidal approximation: 2.41673
 //Integral By Simpson: 2.41667
 //Program ended with exit code: 0
+
+//------calculate integral using trapezoid method and simpson method using the class technique in C++--------封装性
